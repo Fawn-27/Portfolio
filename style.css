@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+}
+
+html {
+  background-color: white;
+  background-image: url("pictures/bg.jpg");
+}
+
+
+div {
+  display: inline-block;
+  width: 400px;
+  margin: 20px;
+  
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: "Koulen", cursive;
+  font-size: 55px;
+  background-color: #05004d;
+  margin-top: 15px;
+  opacity: 0.7;
+  color: white;
+  text-align: center;
+  margin-bottom: 0px;
+  border-radius: 15px;
+}
+
+#mainHeading {
+  background-color: black;
+  opacity: 1;
+}
+
+#name {
+  font-size: 40px;
+}
+
+p {
+  margin-top: 0px;
+  background-color: #05004d;
+  margin-top: 15px;
+  opacity: 0.7;
+  color: white;
+  text-align: center;
+  font-family: "Sniglet", cursive;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  display:inline-table;
+  height:175px;
+  padding-left:5px;
+  padding-right:5px;
+  vertical-align: middle;
+  display:flex;
+}
+
+h3 {
+  font-family: "Sniglet", cursive;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  width: 400px;
+  background-color: black;
+  opacity: 70%;
+  margin-bottom:5px;
+}
+
+h3:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+  margin-top: 0px;
+  background-color:white;
+}
+
+.underlined_links{
+  text-decoration:underline;
+}
