@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body {
   text-align: center;
 }
@@ -50,7 +52,7 @@ p {
   opacity: 0.7;
   color: white;
   text-align: center;
-  font-family: "Sniglet", cursive;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   padding-top: 10px;
   padding-bottom: 20px;
@@ -63,7 +65,7 @@ p {
 }
 
 h3 {
-  font-family: "Sniglet", cursive;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   font-size: 30px;
   color: white;
